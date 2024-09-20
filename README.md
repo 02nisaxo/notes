@@ -15,6 +15,6 @@
 * + Plus
 
 # Links
-[Kawasaki] (https://www.kawasaki.eu/)
-[Suzuki] (https://www.suzuki.ca/)
-[Yamaha] (https://www.yamaha-motor.ca/en/homepage)
+* [Kawasaki] (https://www.kawasaki.eu/)
+* [Suzuki] (https://www.suzuki.ca/)
+* [Yamaha] (https://www.yamaha-motor.ca/en/homepage)
