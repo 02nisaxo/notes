@@ -1,5 +1,5 @@
 # notes
-# Number Row Characters
+## Number Row Characters
 * ~ Tilde
 * ! Exclamation mark
 * @ At sign
@@ -14,7 +14,7 @@
 * _ Underscore
 * + Plus
 
-# Links
+## Links
 * [Kawasaki] (https://www.kawasaki.eu/)
 * [Suzuki] (https://www.suzuki.ca/)
 * [Yamaha] (https://www.yamaha-motor.ca/en/homepage)
