@@ -1,4 +1,5 @@
 # notes
+## GBC COMP-1238 Course
 ## Number Row Characters
 * ~ Tilde
 * ! Exclamation mark
@@ -12,9 +13,15 @@
 * ( Parenthesis
 * ) Bracket 
 * _ Underscore
-* + Plus
+* /+ Plus
 
 ## Links
 * [Kawasaki] (https://www.kawasaki.eu/)
 * [Suzuki] (https://www.suzuki.ca/)
 * [Yamaha] (https://www.yamaha-motor.ca/en/homepage)
+
+## Experiments
+🧋 
+🍔
+🍟
+and this concludes our meal !
