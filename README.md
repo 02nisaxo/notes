@@ -31,7 +31,8 @@ Shortcuts I frequently use:
 - Ctrl-C (copy)
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
-## Shortcuts I would like to start using
+
+Shortcuts I would like to start using:
 - Windows key + ↓	(Minimize the active program window)
 - Ctrl + Y	(Redo the last action)
 - Ctrl+F	(It starts the find utility)(I have no idea what this does😁)
