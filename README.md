@@ -25,3 +25,9 @@
 🍔
 🍟
 and this concludes our meal !
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
